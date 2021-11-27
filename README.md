@@ -1,4 +1,4 @@
-# ![Elftech's logo](logo.png)elfwap
+# ![Elftech's logo](./imgs/logo.png)elfwap
 
 ## Welcome to my repositories website.
 
