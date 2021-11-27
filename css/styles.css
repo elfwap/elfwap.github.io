@@ -1,0 +1,29 @@
+html{
+  box-sizing: border-box;
+  -o-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  margin: 0px auto;
+  font-family: cursive !important;
+}
+body{
+}
+header#pageHeader{
+  height: 200px;
+  padding: 50px;
+}
+img#logo{
+  height: 100px;
+  width: 100px;
+  padding: 7px;
+}
+div#header-headings{
+  display: inline-block;
+  margin-left: 15px;
+}
+p#subheading{
+  font-family: fantasy;
+}
+nav#topnavbar{
+  height: 30px;
+}
