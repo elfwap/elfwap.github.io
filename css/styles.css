@@ -7,23 +7,34 @@ html{
   font-family: cursive !important;
 }
 body{
+  font-family: 'Times New Roman', Times, serif;
 }
 header#pageHeader{
-  height: 200px;
-  padding: 50px;
+  display: inline-flex;
+  height: 50px;
+  padding: 0px;
+  width: 100% !important;
+}
+a#link_menu_header, a#link_home_header{
+  margin: 0px;
+  padding: 5px;
+}
+img#menuicon{
+  padding: 5px;
+  border-radius: 10px;
 }
 img#logo{
-  height: 100px;
-  width: 100px;
-  padding: 7px;
+  margin: 3px 5px;
+  width: 35px;
 }
 div#header-headings{
   display: inline-block;
   margin-left: 15px;
+  padding: 10px 5px;
 }
 p#subheading{
   font-family: fantasy;
 }
 nav#topnavbar{
-  height: 30px;
+  
 }
